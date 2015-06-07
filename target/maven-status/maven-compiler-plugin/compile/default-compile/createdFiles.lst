@@ -1,0 +1,5 @@
+travellog\DistanceService.class
+travellog\Address.class
+com\example\guestbook\SignGuestbookServlet.class
+com\example\guestbook\GuestbookServlet.class
+travellog\AddAddressServlet.class
